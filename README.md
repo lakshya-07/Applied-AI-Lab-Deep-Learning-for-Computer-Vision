@@ -3,9 +3,9 @@
 
 ## Project 1: Wildlife Conservation in Côte d'Ivoire
 ### Dataset Links:
-- 011-[https://jupyter-c1c3d8f3-8888.us-east-13.prd.namespace.im/lab/tree/data_p1](#)
-- 012-[(no dataset)](#)
-- 013-[https://jupyter-baf284a1-8888.us-east-17.prd.namespace.im/lab/tree/data_p1](#)
+- 011-https://jupyter-c1c3d8f3-8888.us-east-13.prd.namespace.im/lab/tree/data_p1
+- 012-(no dataset)
+- 013-https://jupyter-baf284a1-8888.us-east-17.prd.namespace.im/lab/tree/data_p1
 - 014-[Dataset Link 2](#)
 - 015-[Dataset Link 2](#)
   

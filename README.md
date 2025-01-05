@@ -7,7 +7,11 @@
 - 012-(no dataset)
 - 013-https://jupyter-baf284a1-8888.us-east-17.prd.namespace.im/lab/tree/data_p1
 - 014-https://jupyter-1195fe05-8888.us-east-17.prd.namespace.im/lab/tree/data_p1, https://jupyter-7818f5b2-8888.us-east-12.prd.namespace.im/lab/tree/model
-- 015-
+- 
+## Project 1: Crop Disease in Uganda
+### Dataset Links:
+- 021-(no dataset)
+
   
 ### Credits
 These project are completed by me as part of the WorldQuant University Applied AI Lab program.

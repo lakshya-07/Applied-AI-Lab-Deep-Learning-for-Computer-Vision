@@ -11,6 +11,7 @@
 ## Project 2: Crop Disease in Uganda
 ### Dataset Links:
 - 021-(no dataset)
+- 022-https://jupyter-42b2ad02-8888.us-east-12.prd.namespace.im/lab/tree/data_p2
 
   
 ### Credits

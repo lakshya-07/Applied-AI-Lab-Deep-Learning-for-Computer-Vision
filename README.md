@@ -14,6 +14,7 @@
 - 022-https://jupyter-42b2ad02-8888.us-east-12.prd.namespace.im/lab/tree/data_p2
 - 023-https://jupyter-fa3ef46f-8888.us-east-12.prd.namespace.im/lab/tree/data_p2
 - 024-https://jupyter-49cc8efe-8888.us-east-13.prd.namespace.im/lab/tree/data_p2, https://jupyter-49cc8efe-8888.us-east-13.prd.namespace.im/lab/tree/model
+- 025-https://jupyter-4b4d877f-8888.us-east-12.prd.namespace.im/lab/tree/data_p2, https://jupyter-4b4d877f-8888.us-east-12.prd.namespace.im/lab/tree/model
 
   
 ### Credits

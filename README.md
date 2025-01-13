@@ -16,6 +16,10 @@
 - 024-https://jupyter-49cc8efe-8888.us-east-13.prd.namespace.im/lab/tree/data_p2, https://jupyter-49cc8efe-8888.us-east-13.prd.namespace.im/lab/tree/model
 - 025-https://jupyter-4b4d877f-8888.us-east-12.prd.namespace.im/lab/tree/data_p2, https://jupyter-4b4d877f-8888.us-east-12.prd.namespace.im/lab/tree/model
 
+## Project 2: Traffic Monitoring in Bangladesh
+### Dataset Links:
+- 031-(no dataset)
+
   
 ### Credits
 These project are completed by me as part of the WorldQuant University Applied AI Lab program.

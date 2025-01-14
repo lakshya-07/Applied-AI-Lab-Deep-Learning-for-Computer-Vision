@@ -23,6 +23,12 @@
 - 033-https://jupyter-32a6ea1b-8888.us-east-13.prd.namespace.im/lab/tree/data_video, https://jupyter-32a6ea1b-8888.us-east-13.prd.namespace.im/lab/tree/runs
 - 034-https://jupyter-b9d6f72b-8888.us-east-17.prd.namespace.im/lab/tree/data_images, https://jupyter-b9d6f72b-8888.us-east-17.prd.namespace.im/lab/tree/data_video
 - 035-https://jupyter-a0065717-8888.us-east-13.prd.namespace.im/lab/tree/data_video, https://jupyter-a0065717-8888.us-east-13.prd.namespace.im/lab/tree/data_yolo
+
+## Project 3: Celebrity Sightings in India
+### Dataset Links:
+- 041-(no dataset)
+- 
+
   
 
   

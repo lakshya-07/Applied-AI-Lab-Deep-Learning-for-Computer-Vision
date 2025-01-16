@@ -5,9 +5,9 @@
   
 ## Project 2: Crop Disease in Uganda
 
-## Project 2: Traffic Monitoring in Bangladesh
+## Project 3: Traffic Monitoring in Bangladesh
 
-## Project 3: Celebrity Sightings in India
+## Project 4: Celebrity Sightings in India
   
 ### Credits
 These project are completed by me as part of the WorldQuant University Applied AI Lab program.

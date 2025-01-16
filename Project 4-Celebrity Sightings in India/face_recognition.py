@@ -50,7 +50,6 @@ resnet = resnet.eval()
 
 
 # Fill in the locate_face function
-# Fill in the locate_face function
 def locate_faces(image):
     cropped_images, probs = mtcnn(image, return_prob=True)
     boxes, _ = mtcnn.detect(image)

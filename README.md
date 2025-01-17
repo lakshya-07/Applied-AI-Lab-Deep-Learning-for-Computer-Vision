@@ -31,7 +31,7 @@
 - Preparing and submitting your model's predictions for a competition.
 
 Join this project to advance your machine learning expertise and contribute to wildlife conservation efforts by accurately classifying animals in a wildlife preserve!
-### Data: 
+### Data & Models: https://drive.google.com/drive/folders/1F33eaw1xqzMkM6rURw2UxiLig8lYhziW?usp=sharing 
   
 ## Project 2: Crop Disease in Uganda
 ### Project Description: Crop Disease Classification in Uganda

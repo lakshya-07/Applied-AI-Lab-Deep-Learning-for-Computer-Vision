@@ -1,5 +1,5 @@
 # Applied-AI-Lab-Deep-Learning-for-Computer-Vision
-**WorldQuant University**
+***WorldQuant University***
 
 ## Project 1: Wildlife Conservation in Côte d'Ivoire
 ### Project Description: Animal Classification in Wildlife Preserve

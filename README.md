@@ -131,7 +131,7 @@ Embark on this project to harness the power of state-of-the-art models and creat
 
   
 ### Credits
-These project are completed by me as part of the WorldQuant University Applied AI Lab program.
+These project are completed by me as part of the ***WorldQuant University*** Applied AI Lab program.
 
 ### License
-This project is licensed- see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) file for details.
+This project is licensed- see the ***[LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/)*** file for details.

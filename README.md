@@ -64,7 +64,7 @@ Join this project to advance your machine learning expertise and contribute to w
 - Using Callbacks to optimize model training.
 
 Embark on this project to develop your skills in computer vision and create a robust crop disease classification system!
-### Data: 
+### Data & Models: https://drive.google.com/drive/folders/1CU71T2_IM8aAjLv2N_v1j9br5s3roY88?usp=sharing
 
 ## Project 3: Traffic Monitoring in Bangladesh
 ### Project Description: Real-Time Traffic Object Detection in Dhaka

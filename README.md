@@ -129,6 +129,39 @@ Dive into this project to leverage cutting-edge models and develop a robust syst
 Embark on this project to harness the power of state-of-the-art models and create a seamless face recognition application!
 ### Data: https://drive.google.com/file/d/1dulBV6uu3iC3eeSYeE6A4qCpUJi9S9B7/view?usp=sharing
 
+## Project 5: Medical Data in Spain
+
+### Project Description: Generating Medical Images with GANs
+
+**Objective**: The tasks involved in this project were successfully completed to demonstrate the generation of medical images, such as X-rays and MRIs, using Generative Adversarial Networks (GANs). Both custom-built GANs and pre-trained models were utilized for this purpose. Additionally, a Streamlit web application was developed to enable users to interact with the GAN, and Git and GitHub were used to manage and track the project's code.
+
+**Key Components**:
+
+1. **Generative Adversarial Networks (GANs)**:
+   - A custom GAN was designed and trained to generate realistic medical images.
+   - A pre-trained GAN was employed to enhance efficiency in the creation of synthetic datasets.
+
+2. **Synthetic Data Utilization**:
+   - Realistic medical images, including X-rays and MRIs, were generated using the GAN.
+   - These synthetic images were utilized to train and evaluate machine learning models.
+
+3. **Web App Development**:
+   - An interactive web application was created using Streamlit, providing users with the ability to generate and visualize medical images.
+
+4. **Version Control and Collaboration**:
+   - Code changes were tracked using Git, and the project was shared through GitHub repositories to ensure collaborative development and proper version control.
+
+**Skills and Knowledge Gained**:
+
+- The process of designing and training GANs for image generation was mastered.
+- Pre-trained GANs were effectively utilized for creating synthetic datasets.
+- A web application was built using Streamlit to provide user interaction.
+- Proficiency in Git and GitHub was acquired for version control and collaboration.
+- The applications of GANs in medical imaging and synthetic data generation were explored comprehensively.
+
+Through this project, the potential of GANs in medical image generation was successfully demonstrated, and a practical interactive application was provided for users to experience the technology.
+
+### Data: [Link to dataset will be here]
   
 ### Credits
 These project are completed by me as part of the ***WorldQuant University*** Applied AI Lab program.

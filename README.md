@@ -161,7 +161,7 @@ Embark on this project to harness the power of state-of-the-art models and creat
 
 Through this project, the potential of GANs in medical image generation was successfully demonstrated, and a practical interactive application was provided for users to experience the technology.
 
-### Data: [Link to dataset will be here]
+### Data & Models: https://drive.google.com/drive/folders/1rfj7ZpYV4rb1pOpncX6RfclRsDBrL9Pa?usp=sharing
   
 ### Credits
 These project are completed by me as part of the ***WorldQuant University*** Applied AI Lab program.

@@ -163,7 +163,7 @@ Through this project, the potential of GANs in medical image generation was succ
 
 ### Data & Models: https://drive.google.com/drive/folders/1rfj7ZpYV4rb1pOpncX6RfclRsDBrL9Pa?usp=sharing
 
-## Project 4: Social Media Marketing at WQU 
+## Project 6: Social Media Marketing at WQU 
 
 ### Project Description: Real-Time Meme Creation Using Text-to-Image Generation  
 

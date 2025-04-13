@@ -162,7 +162,36 @@ Embark on this project to harness the power of state-of-the-art models and creat
 Through this project, the potential of GANs in medical image generation was successfully demonstrated, and a practical interactive application was provided for users to experience the technology.
 
 ### Data & Models: https://drive.google.com/drive/folders/1rfj7ZpYV4rb1pOpncX6RfclRsDBrL9Pa?usp=sharing
-  
+
+## Project 4: Social Media Marketing at WQU 
+
+### Project Description: Real-Time Meme Creation Using Text-to-Image Generation  
+
+**Objective**: This project focuses on leveraging Stable Diffusion for generating custom images based on text descriptions. Participants will assemble the Stable Diffusion pipeline using pre-trained neural networks and fine-tune these models to incorporate unique image data. The goal is to design a system that can produce creative, meme-worthy images and deploy a user-friendly Streamlit application to allow non-technical teams to interact effortlessly with the model.
+
+**Key Components**:
+
+1. **Stable Diffusion Pipeline**:  
+   Construct the image generation pipeline by integrating pre-trained neural network components. Learn how Stable Diffusion processes text-to-image tasks and adapts to custom requirements.
+
+2. **Fine-Tuning Models**:  
+   Enhance the model's performance with Low-Rank Adaptation (LoRA) techniques, enabling it to generate images aligned to custom specifications.
+
+3. **Streamlit Application Development**:  
+   Create a front-end application using Streamlit to enable real-time interaction with the fine-tuned Stable Diffusion model. Simplify the process for non-technical users.
+
+4. **Deployment**:  
+   Deploy the application to Streamlit Community Cloud, ensuring accessibility for external users and making the system widely usable.
+
+**Skills and Knowledge Gained**:
+
+- Understanding the individual components of the Stable Diffusion pipeline.
+- Fine-tuning Stable Diffusion models with LoRA for custom image generation.
+- Developing interactive apps using Streamlit for seamless model use.
+- Deploying apps to the cloud for broader accessibility and usability.
+
+### Data & Models: 
+
 ### Credits
 These project are completed by me as part of the ***WorldQuant University*** Applied AI Lab program.
 

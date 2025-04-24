@@ -190,7 +190,7 @@ Through this project, the potential of GANs in medical image generation was succ
 - Developing interactive apps using Streamlit for seamless model use.
 - Deploying apps to the cloud for broader accessibility and usability.
 
-### Data & Models: 
+### Data: https://huggingface.co/datasets/worldquant-university/maya-dataset-v1 
 
 ### Credits
 These project are completed by me as part of the ***WorldQuant University*** Applied AI Lab program.
